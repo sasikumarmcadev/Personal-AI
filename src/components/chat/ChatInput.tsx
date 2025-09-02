@@ -133,7 +133,7 @@ const ChatInput: React.FC<ChatInputProps> = ({
         
         <div className="mt-3 text-xs text-slate-500 text-center px-2 flex items-center justify-center space-x-1">
           <Sparkles size={12} className="text-blue-400" />
-          <span>Powered by advanced AI • Developed by Sasikumar</span>
+          <span>Development process going on by Sasikumar</span>
         </div>
       </div>
     </div>
